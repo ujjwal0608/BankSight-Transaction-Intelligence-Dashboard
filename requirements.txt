@@ -1,0 +1,5 @@
+streamlit==1.52.2
+streamlit-option-menu==0.3.6
+pandas==2.1.4
+sqlalchemy
+mysql-connector-python
